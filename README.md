@@ -12,22 +12,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sergio-barrios-paz/" target="_blank">
-    <div style="display: inline-block;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </div>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:s.barriospaz@proton.me">
-    <div style="display: inline-block;">
-      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-    </div>
-  </a>
-</div>
-
-<br>
-
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -46,8 +30,6 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeInIA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeInIA&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 
 <br>
@@ -97,6 +79,24 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+## 📞 Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sergio-barrios-paz/" target="_blank">
+    <div style="display: inline-block;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </div>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:s.barriospaz@proton.me">
+    <div style="display: inline-block;">
+      <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+    </div>
+  </a>
 </div>
 
 <br>
