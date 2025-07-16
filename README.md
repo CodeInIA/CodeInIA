@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" style="transform: scaleY(-1);" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" style="transform: rotate(180deg);" />
   
   <h1>
     👋 Hello! I'm Sergio Barrios Paz (CodeInIA)
