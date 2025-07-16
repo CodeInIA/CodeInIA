@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.svg" width="100%" style="transform: rotate(180deg);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%" />
   
   <h1>
     👋 Hello! I'm Sergio Barrios Paz (CodeInIA)
