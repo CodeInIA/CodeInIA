@@ -41,8 +41,8 @@
     <tr>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
         <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
-          <a href="https://github.com/Eclipse3k/Qubic-Monitor" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=Qubic-Monitor&theme=dracula" />
+          <a href="https://github.com/josanchdev/Qubic-Monitor" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=josanchdev&repo=Qubic-Monitor&theme=dracula" />
           </a>
           <br>
           <p><strong>🥈 Finalist at Qubic x Vottun Hackathon</strong></p>
@@ -50,8 +50,8 @@
       </td>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
         <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
-          <a href="https://github.com/Eclipse3k/RingDoor" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eclipse3k&repo=RingDoor&theme=dracula" />
+          <a href="https://github.com/josanchdev/RingDoor" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=josanchdev&repo=RingDoor&theme=dracula" />
           </a>
           <br>
           <p><strong>🔐 IoT Access System with ESP32</strong></p>
