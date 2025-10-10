@@ -24,21 +24,20 @@
   </a>
 </div>
 
-<br>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeInIA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-<br>
-
 ## 🏆 Featured Projects
 
 <div align="center">
   <table>
     <tr>
+      <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
+        <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
+          <a href="https://github.com/josanchdev/Space-Atlas" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=josanchdev&repo=Space-Atlas&theme=dracula" />
+          </a>
+          <br>
+          <p><strong>🚀 Space Atlas — NASA Space Apps Challenge 2025</strong></p>
+        </div>
+      </td>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
         <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
           <a href="https://github.com/josanchdev/Qubic-Monitor" target="_blank">
@@ -48,6 +47,8 @@
           <p><strong>🥈 Finalist at Qubic x Vottun Hackathon</strong></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
         <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
           <a href="https://github.com/josanchdev/RingDoor" target="_blank">
@@ -57,8 +58,6 @@
           <p><strong>🔐 IoT Access System with ESP32</strong></p>
         </div>
       </td>
-    </tr>
-    <tr>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
         <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
           <a href="https://github.com/Jjoaquin04/reticket" target="_blank">
@@ -68,6 +67,8 @@
           <p><strong>🎫 Ticket Sales Platform with Spring Boot</strong></p>
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
         <div style="height: 220px; display: flex; flex-direction: column; justify-content: space-between;">
           <a href="https://github.com/CodeInIA/minecraft-mod-updater" target="_blank">
@@ -76,6 +77,9 @@
           <br>
           <p><strong>⚡ Minecraft Mod Updater in Python</strong></p>
         </div>
+      </td>
+      <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
+        <!-- empty placeholder to keep layout -->
       </td>
     </tr>
   </table>
