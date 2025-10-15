@@ -35,7 +35,7 @@
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=josanchdev&repo=Space-Atlas&theme=dracula" />
           </a>
           <br>
-          <p><strong>🚀 Space Atlas — NASA Space Apps Challenge 2025</strong></p>
+          <p><strong>🚀 Space Atlas — NASA Space Apps Challenge 2025 — Ganador del Evento Local de Madrid y Nominee Global</strong></p>
         </div>
       </td>
       <td width="50%" align="center" style="vertical-align: top; padding: 10px;">
