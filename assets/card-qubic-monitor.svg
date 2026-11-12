@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Qubic Monitor">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111a33"/><stop offset="1" stop-color="#0a0f1e"/></linearGradient>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cbd5e1"/><stop offset="1" stop-color="#64748b" stop-opacity=".25"/></linearGradient>
+    <radialGradient id="gl" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#cbd5e1" stop-opacity=".28"/><stop offset="1" stop-color="#cbd5e1" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="440" height="236" rx="16"/></clipPath>
+    <style>.p { animation: p 6s ease-in-out infinite; transform-origin: 380px 56px; } @keyframes p { 0%,100% { opacity:.7; transform: scale(1) } 50% { opacity:1; transform: scale(1.12) } }</style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="440" height="236" fill="url(#bg)"/>
+    <circle class="p" cx="380" cy="56" r="120" fill="url(#gl)"/>
+    <g transform="translate(332 30)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="0" y="0" width="92" height="56" rx="10" stroke="#cbd5e1" stroke-opacity=".5" stroke-width="2"/>
+      <path d="M8 30 H26 L34 12 L46 46 L56 22 L62 30 H84" stroke="#e2e8f0" stroke-width="3.5"/>
+    </g>
+    <rect x="24" y="22" width="194" height="22" rx="6" fill="#cbd5e1" fill-opacity=".16"/>
+    <text x="35" y="37" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#cbd5e1" letter-spacing=".6">FINALIST · QUBIC x VOTTUN</text>
+    <text x="24" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="700" fill="#e6edf3">Qubic Monitor</text>
+    <text x="24" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13.5" fill="#9aa7bd"><tspan x="24" dy="0">Real-time monitoring and alerts for Qubic blockchain</tspan><tspan x="24" dy="19">accounts, with a REST API, WebSocket notifications and</tspan><tspan x="24" dy="19">a live dashboard.</tspan></text>
+    <rect x="24" y="168" width="65" height="22" rx="11" fill="#cbd5e1" fill-opacity=".12" stroke="#cbd5e1" stroke-opacity=".35"/><text x="56" y="183" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#cbd5e1">Node.js</text><rect x="95.9" y="168" width="65" height="22" rx="11" fill="#cbd5e1" fill-opacity=".12" stroke="#cbd5e1" stroke-opacity=".35"/><text x="128" y="183" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#cbd5e1">Express</text><rect x="167.8" y="168" width="85" height="22" rx="11" fill="#cbd5e1" fill-opacity=".12" stroke="#cbd5e1" stroke-opacity=".35"/><text x="210" y="183" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#cbd5e1">WebSockets</text><rect x="259.8" y="168" width="85" height="22" rx="11" fill="#cbd5e1" fill-opacity=".12" stroke="#cbd5e1" stroke-opacity=".35"/><text x="302" y="183" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#cbd5e1">JavaScript</text>
+    <text x="24" y="216" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#5b6880">Qubic x Vottun Hackathon 2025 · Telefónica</text>
+  </g>
+  <rect x="1" y="1" width="438" height="234" rx="15" fill="none" stroke="url(#bd)" stroke-width="1.5"/>
+</svg>

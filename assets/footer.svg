@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="">
+  <defs>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#43e3a0"/>
+    </linearGradient>
+    <style>
+      .w1 { animation: m 14s linear infinite; } .w2 { animation: m 20s linear infinite reverse; }
+      @keyframes m { from { transform: translateX(0) } to { transform: translateX(-600px) } }
+    </style>
+  </defs>
+  <g class="w2" opacity=".35"><path fill="url(#ac)" d="M0 70 Q150 30 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 V120 H0Z"/></g>
+  <g class="w1" opacity=".75"><path fill="url(#ac)" d="M0 85 Q150 55 300 85 T600 85 T900 85 T1200 85 T1500 85 T1800 85 V120 H0Z"/></g>
+</svg>
