@@ -17,9 +17,24 @@
 
 ## Experience
 
-<p align="center">
-  <a href="https://nexthink.com"><img src="assets/card-nexthink.svg" width="98%" alt="Software Engineer Intern at Nexthink, ProductShell team, Nov 2025 - May 2026. Frontend and backend on the microfrontend orchestration layer of Nexthink Infinity, a jscodeshift codemod that added a RetryPlugin to 37 repositories owned by about 20 teams, a faster Playwright E2E suite and Datadog synthetic tests as code. Jury's Special Award at the Nexthink Avengers Innovathon 2025." /></a>
-</p>
+<table>
+  <tr>
+    <td rowspan="5" width="200" align="center"><a href="https://nexthink.com"><img src="assets/badge-nexthink.svg" width="180" alt="Nexthink employee badge: Sergio Barrios Paz, Software Engineer Intern, ProductShell, Nov 2025 - May 2026" /></a></td>
+    <td>Frontend and backend work on the microfrontend orchestration layer of <b>Nexthink Infinity</b> (TypeScript, React, Java, GraphQL).</td>
+  </tr>
+  <tr>
+    <td>Wrote a jscodeshift codemod that added a <code>RetryPlugin</code> to <b>37 repositories owned by about 20 teams</b>.</td>
+  </tr>
+  <tr>
+    <td>Sped up the Playwright E2E suite on production builds, and defined Datadog synthetic tests as code with Terraform.</td>
+  </tr>
+  <tr>
+    <td>Day to day with GitHub Actions, Jenkins, Docker, GitOps, Kubernetes, Crossplane and AWS.</td>
+  </tr>
+  <tr>
+    <td>🏆 <b>Jury's Special Award</b> at the <i>Nexthink Avengers Innovathon 2025</i>: an MVP of <i>Business Performance</i>, with KPI dashboards and an AI assistant.</td>
+  </tr>
+</table>
 
 ## Featured projects
 
