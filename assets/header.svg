@@ -44,7 +44,7 @@
     <text x="70" y="172" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="62" font-weight="700" fill="#e6edf3">Sergio Barrios Paz</text>
     <rect x="72" y="194" width="120" height="4" rx="2" fill="url(#ac)"/>
     <text x="72" y="238" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#e6edf3">Computer Engineer <tspan fill="#5b6880">·</tspan> <tspan fill="#9aa7bd" font-weight="400">Universidad Rey Juan Carlos</tspan></text>
-    <text x="72" y="274" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#9aa7bd">Full-stack · Zero-knowledge &amp; blockchain · Rust desktop apps · Madrid, Spain</text>
+    <text x="72" y="274" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#9aa7bd">Full-stack · Blockchain &amp; smart contracts · Rust desktop apps · Madrid, Spain</text>
   </g>
   <rect x=".5" y=".5" width="1199" height="319" rx="18" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
 </svg>
