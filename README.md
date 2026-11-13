@@ -12,7 +12,7 @@
 ## About me
 
 <p align="center">
-  <picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-about.svg" /><img src="assets/desktop/card-about.svg" width="98%" alt="I'm a Computer Engineer (URJC, 2026) and a passionate developer interested in technology, the blockchain ecosystem and creating solutions to complex problems. Always looking to learn and build new things. In the blockchain space since 2021, writing smart contracts in Solidity." /></picture>
+  <picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-about.svg" /><img src="assets/desktop/card-about.svg" width="98%" alt="I'm a Computer Engineer (URJC, 2026) and a passionate developer interested in technology, the blockchain ecosystem and creating solutions to complex problems. Always looking to learn and build new things. In the blockchain ecosystem since 2021, now building smart contracts in Solidity and zero-knowledge apps." /></picture>
 </p>
 
 ## Experience
