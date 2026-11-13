@@ -9,9 +9,8 @@
   <g clip-path="url(#c)">
     <rect width="440" height="236" fill="url(#bg)"/>
     <circle class="p" cx="380" cy="56" r="120" fill="url(#gl)"/>
-    <g transform="translate(332 30)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="0" y="0" width="92" height="56" rx="10" stroke="#cbd5e1" stroke-opacity=".5" stroke-width="2"/>
-      <path d="M8 30 H26 L34 12 L46 46 L56 22 L62 30 H84" stroke="#e2e8f0" stroke-width="3.5"/>
+    <g transform="translate(344 25) scale(1.75)">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M9.75 2.24152H18.1544V27.3811H9.75V2.24152ZM20.9609 2.24152H29.3069V35.7588H20.9609V2.24152Z" fill="#23FFFF"/>
     </g>
     <rect x="24" y="22" width="194" height="22" rx="6" fill="#cbd5e1" fill-opacity=".16"/>
     <text x="35" y="37" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="700" fill="#cbd5e1" letter-spacing=".6">FINALIST · QUBIC x VOTTUN</text>
