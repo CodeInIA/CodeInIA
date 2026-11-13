@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td rowspan="5" align="center"><a href="https://nexthink.com"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/badge-nexthink.svg" width="76" height="118" /><img src="assets/desktop/badge-nexthink.svg" width="180" alt="Nexthink employee badge: Sergio Barrios Paz, Software Engineer Intern, ProductShell, Nov 2025 - May 2026" /></picture></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td rowspan="5" align="center"><a href="https://nexthink.com"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/badge-nexthink.svg" width="104" height="237" /><img src="assets/desktop/badge-nexthink.svg" width="180" alt="Nexthink employee badge: Sergio Barrios Paz, Software Engineer Intern, ProductShell, Nov 2025 - May 2026" /></picture></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Frontend and backend work on the microfrontend orchestration layer of <b>Nexthink Infinity</b> (TypeScript, React, Java, GraphQL).</td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trustmrr.com/startup/cunadismo-ilustrado"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-cunadismo.svg" /><img src="assets/desktop/card-cunadismo.svg" width="98%" alt="Cuñadismo Ilustrado: online shop with $136 in Stripe revenue verified by TrustMRR" /></picture></a>
+  <a href="https://trustmrr.com/startup/cunadismo-ilustrado"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-cunadismo.svg" /><img src="assets/desktop/card-cunadismo.svg" width="100%" alt="Cuñadismo Ilustrado: online shop with $136 in Stripe revenue verified by TrustMRR" /></picture></a>
   <br>
   <sub>Source: <a href="https://github.com/CodeInIA/cunao-frontend">storefront and admin panel</a> · <a href="https://github.com/CodeInIA/cunao-backend">API</a></sub>
 </p>
