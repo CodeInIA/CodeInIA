@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <a href="https://trustmrr.com/startup/cunadismo-ilustrado"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-cunadismo.svg" /><img src="assets/desktop/card-cunadismo.svg" width="100%" alt="Cuñadismo Ilustrado: online shop with $136 in Stripe revenue verified by TrustMRR" /></picture></a>
+  <a href="https://trustmrr.com/startup/cunadismo-ilustrado"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-cunadismo.svg" /><img src="assets/desktop/card-cunadismo.svg" alt="Cuñadismo Ilustrado: online shop with $136 in Stripe revenue verified by TrustMRR" /></picture></a>
   <br>
   <sub>Source: <a href="https://github.com/CodeInIA/cunao-frontend">storefront and admin panel</a> · <a href="https://github.com/CodeInIA/cunao-backend">API</a></sub>
 </p>
