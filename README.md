@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Sergio Barrios Paz, Computer Engineer" />
+  <picture><source media="(max-width: 1011px)" srcset="assets/mobile/header.svg" /><img src="assets/desktop/header.svg" width="100%" alt="Sergio Barrios Paz, Computer Engineer" /></picture>
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 ## About me
 
 <p align="center">
-  <img src="assets/card-about.svg" width="98%" alt="I'm a Computer Engineer (URJC, 2026) and a passionate developer interested in technology, the blockchain ecosystem and creating solutions to complex problems. Always looking to learn and build new things. In the blockchain space since 2021, writing smart contracts in Solidity." />
+  <picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-about.svg" /><img src="assets/desktop/card-about.svg" width="98%" alt="I'm a Computer Engineer (URJC, 2026) and a passionate developer interested in technology, the blockchain ecosystem and creating solutions to complex problems. Always looking to learn and build new things. In the blockchain space since 2021, writing smart contracts in Solidity." /></picture>
 </p>
 
 ## Experience
 
 <table>
   <tr>
-    <td rowspan="5" width="200" align="center"><a href="https://nexthink.com"><img src="assets/badge-nexthink.svg" width="180" alt="Nexthink employee badge: Sergio Barrios Paz, Software Engineer Intern, ProductShell, Nov 2025 - May 2026" /></a></td>
+    <td rowspan="5" align="center"><a href="https://nexthink.com"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/badge-nexthink.svg" width="76" height="118" /><img src="assets/desktop/badge-nexthink.svg" width="180" alt="Nexthink employee badge: Sergio Barrios Paz, Software Engineer Intern, ProductShell, Nov 2025 - May 2026" /></picture></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Frontend and backend work on the microfrontend orchestration layer of <b>Nexthink Infinity</b> (TypeScript, React, Java, GraphQL).</td>
   </tr>
   <tr>
@@ -39,16 +39,16 @@
 ## Featured projects
 
 <p align="center">
-  <a href="https://github.com/CodeInIA/votain"><img src="assets/card-votain.svg" width="49%" alt="Votain: verifiable, anonymous, coercion-resistant voting dApp" /></a>
-  <a href="https://brinejar.tech"><img src="assets/card-brinejar.svg" width="49%" alt="Brinejar: keeps your Minecraft mods up to date" /></a>
+  <a href="https://github.com/CodeInIA/votain"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-votain.svg" /><img src="assets/desktop/card-votain.svg" alt="Votain: verifiable, anonymous, coercion-resistant voting dApp" /></picture></a>
+  <a href="https://brinejar.tech"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-brinejar.svg" /><img src="assets/desktop/card-brinejar.svg" alt="Brinejar: keeps your Minecraft mods up to date" /></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/josanchdev/Space-Atlas"><img src="assets/card-space-atlas.svg" width="49%" alt="Space Atlas: NASA Space Apps Challenge 2025, Madrid winner and Global Nominee" /></a>
-  <a href="https://github.com/josanchdev/Qubic-Monitor"><img src="assets/card-qubic-monitor.svg" width="49%" alt="Qubic Monitor: finalist at the Qubic x Vottun hackathon" /></a>
+  <a href="https://github.com/josanchdev/Space-Atlas"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-space-atlas.svg" /><img src="assets/desktop/card-space-atlas.svg" alt="Space Atlas: NASA Space Apps Challenge 2025, Madrid winner and Global Nominee" /></picture></a>
+  <a href="https://github.com/josanchdev/Qubic-Monitor"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-qubic-monitor.svg" /><img src="assets/desktop/card-qubic-monitor.svg" alt="Qubic Monitor: finalist at the Qubic x Vottun hackathon" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://trustmrr.com/startup/cunadismo-ilustrado"><img src="assets/card-cunadismo.svg" width="98%" alt="Cuñadismo Ilustrado: online shop with $136 in Stripe revenue verified by TrustMRR" /></a>
+  <a href="https://trustmrr.com/startup/cunadismo-ilustrado"><picture><source media="(max-width: 1011px)" srcset="assets/mobile/card-cunadismo.svg" /><img src="assets/desktop/card-cunadismo.svg" width="98%" alt="Cuñadismo Ilustrado: online shop with $136 in Stripe revenue verified by TrustMRR" /></picture></a>
   <br>
   <sub>Source: <a href="https://github.com/CodeInIA/cunao-frontend">storefront and admin panel</a> · <a href="https://github.com/CodeInIA/cunao-backend">API</a></sub>
 </p>
@@ -66,14 +66,14 @@
 
 | Area | Tools |
 | --- | --- |
-| **Languages** | <img src="assets/stack-languages.svg" height="40" alt="TypeScript, JavaScript, Java, Rust, Python, C, C++" title="TypeScript, JavaScript, Java, Rust, Python, C, C++" /> |
-| **Frontend &amp; desktop** | <img src="assets/stack-frontend.svg" height="40" alt="HTML, React, Vite, Tailwind CSS, Three.js, Tauri" title="HTML, React, Vite, Tailwind CSS, Three.js, Tauri" /> |
-| **Backend &amp; data** | <img src="assets/stack-backend.svg" height="40" alt="Node.js, Express, Spring Boot, GraphQL, MongoDB, MySQL" title="Node.js, Express, Spring Boot, GraphQL, MongoDB, MySQL" /> |
-| **Blockchain** | <img src="assets/stack-blockchain.svg" height="40" alt="Solidity, Hardhat, ethers.js, Circom, Semaphore" title="Solidity, Hardhat, ethers.js, Circom, Semaphore" /> |
-| **Cloud &amp; DevOps** | <img src="assets/stack-devops.svg" height="40" alt="AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Linux, Git, Crossplane, Datadog" title="AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Linux, Git, Crossplane, Datadog" /> |
-| **Testing** | <img src="assets/stack-testing.svg" height="40" alt="Vitest, Playwright, JUnit 5" title="Vitest, Playwright, JUnit 5" /> |
-| **AI-assisted dev** | <img src="assets/stack-ai.svg" height="40" alt="Claude Code, Cursor, GitHub Copilot, Spec Kit" title="Claude Code, Cursor, GitHub Copilot, Spec Kit" /> |
+| **Languages** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-languages.svg" /><img src="assets/desktop/stack-languages.svg" alt="TypeScript, JavaScript, Java, Rust, Python, C, C++" title="TypeScript, JavaScript, Java, Rust, Python, C, C++" /></picture> |
+| **Frontend &amp; desktop** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-frontend.svg" /><img src="assets/desktop/stack-frontend.svg" alt="HTML, React, Vite, Tailwind CSS, Three.js, Tauri" title="HTML, React, Vite, Tailwind CSS, Three.js, Tauri" /></picture> |
+| **Backend &amp; data** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-backend.svg" /><img src="assets/desktop/stack-backend.svg" alt="Node.js, Express, Spring Boot, GraphQL, MongoDB, MySQL" title="Node.js, Express, Spring Boot, GraphQL, MongoDB, MySQL" /></picture> |
+| **Blockchain** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-blockchain.svg" /><img src="assets/desktop/stack-blockchain.svg" alt="Solidity, Hardhat, ethers.js, Circom, Semaphore" title="Solidity, Hardhat, ethers.js, Circom, Semaphore" /></picture> |
+| **Cloud &amp; DevOps** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-devops.svg" /><img src="assets/desktop/stack-devops.svg" alt="AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Linux, Git, Crossplane, Datadog" title="AWS, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Linux, Git, Crossplane, Datadog" /></picture> |
+| **Testing** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-testing.svg" /><img src="assets/desktop/stack-testing.svg" alt="Vitest, Playwright, JUnit 5" title="Vitest, Playwright, JUnit 5" /></picture> |
+| **AI-assisted dev** | <picture><source media="(max-width: 1011px)" srcset="assets/mobile/stack-ai.svg" /><img src="assets/desktop/stack-ai.svg" alt="Claude Code, Cursor, GitHub Copilot, Spec Kit" title="Claude Code, Cursor, GitHub Copilot, Spec Kit" /></picture> |
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="" />
+  <img src="assets/desktop/footer.svg" width="100%" alt="" />
 </p>
